@@ -81,16 +81,10 @@ UI updates dynamically using Label.config().
 
 Game state is controlled using flags and counters.
 
-📁 Project Structure
-📂 Number-Guessing-Game
- ├── number_guessing_game.py
- └── README.md
 
 👤 Author
-
 Naksh Garg
 Made as a Python GUI mini-project using Tkinter.
 
 📜 License
-
 This project is free to use for learning, academic, and personal purposes.
